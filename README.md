@@ -1,25 +1,55 @@
 # Ester-Soares-Serafim
 
-⚡Elétrotecnica - IFES Vitória<br>
+⚡Elétrotecnica - IFES Vitória<br>                                                  
 👩🏾‍💻Eng. Software - Salesiano<br>
 🌏Inglês e Francês - Técnico<br>
 🚘CNH - B<br>
 📥E-mail - estersoaresserafim13a@gmail.com<br>
 📈Linkedin - www.linkedin.com/in/ester-s-830104202
 <br>
+
 ## *Learning programming languages*
-
-## <img src="https://github.com/user-attachments/assets/2bf1507a-b449-4f5b-82b8-0828e2cc35f5" alt="image"> <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/f9f5e6c8-f7f6-429e-8285-9812c25deb73" />   <img width="161" height="28" alt="image" src="https://github.com/user-attachments/assets/df3e9bbd-f807-4669-a2de-23821b3f3b02" />  <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/c8590b5d-5f7a-4c85-b095-0dc80d63e995" />    <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/f075d316-3a5c-4edb-9aee-ffd083d62a84" />     <img width="107" height="28" alt="image" src="https://github.com/user-attachments/assets/383b2295-1d01-4d04-8511-de2144b1d40b" />     <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/70b51e03-1346-47a6-9a3c-f9e4d9ebcbb6" />     <img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/b3e1c807-7829-4504-8df0-0468037356cb" />     <img width="88" height="28" alt="image" src="https://github.com/user-attachments/assets/19be10dd-7ca4-473a-94f4-1956caebfab4" />  <img width="113" height="56" alt="download" src="https://github.com/user-attachments/assets/a8c5a5de-dfcd-4cb3-b1d3-e7f157a04990" />  <img src="https://github.com/user-attachments/assets/9853c7b3-b7da-42f2-8d80-6fb42a3801ba" width="70"> <img width="95" height="91" alt="images" src="https://github.com/user-attachments/assets/cfa7d3cf-7087-4c86-85db-b7b17e783b51" /> <br>
-
-
-
-## *Simulation languages*
-
-<img src="https://github.com/user-attachments/assets/75f0cb14-e2cc-44fc-aa91-0a647865dd6b" width="110"> <img src="https://github.com/user-attachments/assets/437c2263-a0da-4c9a-a1de-b0430e02386e" width="140">
-<img width="140" height="87" alt="images" src="https://github.com/user-attachments/assets/37360387-9f7c-4402-a89e-8f68ba4de517" />  <img width="125" height="300" alt="image" src="https://github.com/user-attachments/assets/36eb4767-9d6f-42d8-85ae-53c0a6d69f9b" />
-<img width="90" height="300" alt="download" src="https://github.com/user-attachments/assets/8464a60c-b791-4d98-80e0-26aead1158a7" />
+<img width="60" height="100" alt="image" src="https://github.com/user-attachments/assets/6c2fd366-1e2a-4950-b53d-520d522dc67e" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/3c3150f2-eaaf-4d9d-bb14-3204ee30789e" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/62374a3a-1223-4cd2-9625-09ddd0a028a3" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/2e97f94b-4f68-40b3-b013-f600761dea9d" /><img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/b7c43ff5-0f8d-4dcf-b84b-b37256788499" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/f0633bee-8df2-47d6-a96b-e90a2e615336" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/08a087e8-3166-46bd-9127-e952fe7ac951" />
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soares243&show_icons=true&theme=radical)
+## *platforms and systems*
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/d467de7e-ce32-4d3a-9113-98b6db38a3b6" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/c0f69ec8-68e0-4baa-b0c4-f5c3d48f4c22" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/0357a815-408d-4a0d-91d0-d87ccf5e3b2e" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/f75a62a1-b6c7-4621-938a-7262665dd228" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/ff441e8e-693e-4703-8bc5-ed763a1b0d1e" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/27c9c3e6-f89b-4ec8-9882-90b43dc1ab90" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/b96af6f5-eef1-4b97-a7bb-a12406f59163" />
+
+
+
+
+## *Simulation platforms*
+<img width="70" height="200" alt="autodesk-revit-small-social-400" src="https://github.com/user-attachments/assets/0ec3c1bd-de3e-4274-ad05-771271bb8251" />
+<img width="76" height="514" alt="imgbin_9f5af269822df1ffc0395868913931fb" src="https://github.com/user-attachments/assets/8848cf90-73e2-447f-9b6b-00925d80b337" />
+<img width="140" height="300" alt="pngwing com" src="https://github.com/user-attachments/assets/b1afef8d-42dd-4abd-910b-d32577ad996c" />
+<img width="87" height="875" alt="AIDrawing_251115_4446e6a7-20d1-488d-8efc-9d4957f83192_0_MiriCanvas" src="https://github.com/user-attachments/assets/ee022f95-76b3-4db1-9834-ac75b91885d3" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/66ef80e6-963e-4edb-b6c5-cf3e21e4551e" />
+<img width="150" height="576" alt="ChatGPT Image 14 de nov  de 2025, 23_46_09" src="https://github.com/user-attachments/assets/4c669ae6-6e7f-4229-b737-1f09af9cd1b8" />
+<img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/dfebaa49-0df6-40a6-a893-eb6494f5f67f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
